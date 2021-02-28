@@ -8,6 +8,7 @@ import java.util.List;
  */
 public abstract class Animal
 {
+    private int age;
     // Whether the animal is alive or not.
     private boolean alive;
     // The animal's field.
